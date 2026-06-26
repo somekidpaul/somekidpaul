@@ -34,7 +34,7 @@ AI-powered insights, Stripe payments, PostgreSQL. React/Vite on Vercel, Flask on
 ## 🔗 Links
 
 - 🌐 Portfolio — **[somekidpaul.com](https://somekidpaul.com)**
-- ✍️ Blog — **[somekidpaul.com/blog](https://somekidpaul.com/blog)**
+- ✍️ Blog — **[somekidpaul.com/writing](https://somekidpaul.com/writing)**
 - 📸 Photo — **[somekidpaul.com/photo](https://somekidpaul.com/photo)**
 - 💼 LinkedIn — **[in/paulbuczkowski](https://www.linkedin.com/in/paulbuczkowski/)**
 - 📷 Instagram — **[@somekidpaul](https://instagram.com/somekidpaul)**
