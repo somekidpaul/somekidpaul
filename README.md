@@ -26,7 +26,9 @@ AI-powered insights, Stripe payments, PostgreSQL. React/Vite on Vercel, Flask on
 ## 🧰 Stack
 
 **Design** · Figma · Adobe CS · UI/UX · Responsive Design
+
 **AI-native** · Claude Code · Claude API · Copilot
+
 **Builds with (AI-directed)** · React · TypeScript · Next.js · Tailwind · Swift/SwiftUI · Python/Flask · PostgreSQL · Vercel · Cloudflare · Railway
 
 ---
