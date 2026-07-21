@@ -1,6 +1,6 @@
 # Hey, I'm Paul 👋
 
-**AI-Native Design Engineer** based in the NYC metro area.
+**AI-native Product Designer** based in the NYC metro area.
 
 Design background (B.F.A., Montclair State) that grew into a decade of shipping digital products, previously at **RollWorks**, **PNY Technologies**, **Getty Images**, and the **NBA**. These days I work AI-native: I own the design and direct AI to build it end-to-end, staying in the code for the details that matter. React/TypeScript on the front, Python/Flask on the back, PostgreSQL for data, and Swift for native iOS.
 
@@ -25,9 +25,9 @@ AI-powered insights, Stripe payments, PostgreSQL. React/Vite on Vercel, Flask on
 
 ## 🧰 Stack
 
-**Engineering** · React · TypeScript · Next.js · Tailwind · Swift/SwiftUI · Python/Flask · PostgreSQL · Vercel · Cloudflare · Railway
 **Design** · Figma · Adobe CS · UI/UX · Responsive Design
 **AI-native** · Claude Code · Claude API · Copilot
+**Builds with (AI-directed)** · React · TypeScript · Next.js · Tailwind · Swift/SwiftUI · Python/Flask · PostgreSQL · Vercel · Cloudflare · Railway
 
 ---
 
